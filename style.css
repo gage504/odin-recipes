@@ -4,11 +4,18 @@
 }
 .gg {
    color:gold;
-   font-size: 48px;
+   font-size: 40px;
    font-weight: bold;
-   font-family:cursive, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   font-family:cursive, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background-color: green;
 }
-a, li{
+#og, a, li, p, div{
     color:gold;
-    font-size: 24px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.im {
+    width:300px;
+    height:auto;
+
 }
